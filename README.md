@@ -7,7 +7,7 @@
 - 🌱 I am currently studying at school in a physics and mathematics class, in my free time I study Python
 - 📫 You can contact me in telegram, my nickname is @virdollari
 - 🌱 BMSTU IU5 **student**
-- 👨‍💻 I'm learning **Java and Spring**
+- 👨‍💻 I'm learning **Golang** now
 ***
 - My humble profile on codewars  🥺...
 [![codewars](https://www.codewars.com/users/virsi/badges/large)](https://www.codewars.com/users/virsi)
