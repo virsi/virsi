@@ -7,12 +7,8 @@
 ### 📊 My Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=virsi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virsi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&hide=html,css" />
-  </a>
+  <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top Langs" />
 </div>
 
 <div align="center">
