@@ -46,4 +46,3 @@
   </a>
 </div>
 
-![snake gif](https://github.com/virsi/virsi/raw/output/github-contribution-grid-snake-dark.svg)
