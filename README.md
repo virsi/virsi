@@ -2,7 +2,7 @@
 
 # Hey, I'm vir$i
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Backend+Engineer+%7C+Python+%26+C%2B%2B;Building+scalable+distributed+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Go+Backend+Engineer;Microservices+%7C+Highload+%7C+Distributed+Systems)](https://git.io/typing-svg)
 
 <a href="https://t.me/virdollari"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:aemeathx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -13,22 +13,27 @@
 
 ## About
 
-```python
-class Developer:
-    def __init__(self):
-        self.name       = "vir$i"
-        self.university = "BMSTU"
-        self.role       = "Backend Engineer"
-        self.languages  = ["Python", "C++", "JavaScript", "Go"]
-        self.focus      = ["Microservices", "Highload Systems", "Distributed Architecture"]
+```go
+package main
 
-    def build(self):
-        while self.is_curious():
-            self.learn()
-            self.code()
-            self.ship()
+type Developer struct {
+    Name       string
+    University string
+    Role       string
+    Stack      []string
+    Focus      []string
+}
 
-Developer().build()
+func main() {
+    me := Developer{
+        Name:       "vir$i",
+        University: "BMSTU",
+        Role:       "Go Backend Engineer",
+        Stack:      []string{"Go", "Python", "C++", "JavaScript"},
+        Focus:      []string{"Microservices", "Highload Systems", "Distributed Architecture"},
+    }
+    me.Build()
+}
 ```
 
 <br/>
@@ -45,13 +50,13 @@ Developer().build()
 </tr>
 <tr>
 <td align="center">
+<img src="https://skillicons.dev/icons?i=go&theme=dark" width="40" /><br/>Go
+<br/>
 <img src="https://skillicons.dev/icons?i=py&theme=dark" width="40" /><br/>Python
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" /><br/>C++
 <br/>
 <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" /><br/>JavaScript
-<br/>
-<img src="https://skillicons.dev/icons?i=go&theme=dark" width="40" /><br/>Go
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" /><br/>PostgreSQL
